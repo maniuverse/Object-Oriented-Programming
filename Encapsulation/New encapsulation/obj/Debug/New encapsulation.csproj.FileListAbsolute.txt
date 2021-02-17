@@ -1,0 +1,12 @@
+U:\class\New encapsulation\New encapsulation\bin\Debug\New encapsulation.exe.config
+U:\class\New encapsulation\New encapsulation\obj\Debug\New encapsulation.csprojResolveAssemblyReference.cache
+U:\class\New encapsulation\New encapsulation\bin\Debug\New encapsulation.exe
+U:\class\New encapsulation\New encapsulation\bin\Debug\New encapsulation.pdb
+U:\class\New encapsulation\New encapsulation\obj\Debug\New encapsulation.exe
+U:\class\New encapsulation\New encapsulation\obj\Debug\New encapsulation.pdb
+D:\Combinations of Git Repositories\Object Oriented Programming\Encapsulation\New encapsulation\bin\Debug\New encapsulation.exe.config
+D:\Combinations of Git Repositories\Object Oriented Programming\Encapsulation\New encapsulation\obj\Debug\New encapsulation.exe
+D:\Combinations of Git Repositories\Object Oriented Programming\Encapsulation\New encapsulation\obj\Debug\New encapsulation.pdb
+D:\Combinations of Git Repositories\Object Oriented Programming\Encapsulation\New encapsulation\bin\Debug\New encapsulation.exe
+D:\Combinations of Git Repositories\Object Oriented Programming\Encapsulation\New encapsulation\bin\Debug\New encapsulation.pdb
+D:\Combinations of Git Repositories\Object Oriented Programming\Encapsulation\New encapsulation\obj\Debug\New encapsulation.csprojResolveAssemblyReference.cache
